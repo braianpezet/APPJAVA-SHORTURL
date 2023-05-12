@@ -12,4 +12,6 @@ Ejemplo GET
 
 ![Screenshot](capturas/GET.png)
 
+Diferencia entre URL rapida y lenta
 
+![Screenshot](capturas/RETRASO.png)

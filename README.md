@@ -3,7 +3,7 @@ Ejercicio de parcial
 
 Ejemplo POST:
 
-![Screenshot](capturas/GET.png)
+![Screenshot](capturas/POST.png)
 
 Base de datos:
 ![Screenshot](capturas/db.png)

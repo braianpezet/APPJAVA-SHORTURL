@@ -2,5 +2,7 @@
 Ejercicio de parcial
 
 Ejemplo POST
-capturas/GET.png
+![Screenshot](capturas/GET.png)
+
+
 
